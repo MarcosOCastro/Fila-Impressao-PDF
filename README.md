@@ -1,7 +1,7 @@
 # Fila de Impressão - PDF v1.0 🚀
 
 <p align="center">
-  <img src="img/preview.png" alt="Interface do Fila de Impressão PDF" width="600">
+  <img src="https://github.com/MarcosOCastro/Fila-Impressao-PDF/blob/main/img/Preview.png" alt="Interface do Fila de Impressão PDF" width="600">
 </p>
 
 Uma ferramenta desktop intuitiva desenvolvida em Python para gerenciar e automatizar a impressão de arquivos PDF em massa. O programa oferece uma interface moderna com suporte a "Drag and Drop" (arrastar e soltar) e um sistema inteligente de monitoramento de hardware da impressora.
